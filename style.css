@@ -32,3 +32,21 @@ header {
 .header {
   background-color: grey;
 }
+/* Objectives/Goals */
+.objectives-goals {
+  width: 90%;
+  height: 280px;
+  border-bottom: 2px solid black;
+  margin: 0 auto;
+}
+.list-of-objectives-goals {
+  list-style: none;
+}
+.objective {
+  text-align: center;
+  padding: 10px;
+}
+.section-heading {
+  text-align: center;
+  padding: 10px;
+}
