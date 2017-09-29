@@ -91,3 +91,61 @@ header {
   padding-top: 40px;
   padding-bottom: 20px;
 }
+/* Volunteering exeperience */
+.volunteer-experience {
+  width: 90%;
+  height: 240px;
+  border-bottom: 2px solid black;
+  margin: 0 auto;
+}
+.volunteer-header {
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+.volunteer-section {
+  float: left;
+  width: 48%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+/* Hobbies Section */
+.hobbies {
+  width: 90%;
+  height: 470px;
+  margin: 0 auto;
+}
+.hobbies-header {
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+.volunteer-section {
+  float: left;
+  width: 48%;
+  padding-top: 10px;
+  padding-bottom: 10px
+}
+.hobby-words {
+  padding: 10px;
+}
+.contact-me {
+  width: 100%;
+  height: 150px;
+  background-color: #b2afae;
+  margin-top: 50px;
+
+}
+.contact-me h2 {
+  padding-bottom: 10px;
+}
+.name-number {
+  padding-left: 30px;
+  padding-top: 30px;
+  width: 30%;
+  display: inline-block;
+}
+.github-email {
+  display: inline-block;
+
+}
