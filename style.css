@@ -73,3 +73,21 @@ header {
 .skills-list {
   padding-left: 60px;
 }
+/* Work/Experience */
+.work-experience {
+  width: 90%;
+  height: 240px;
+  border-bottom: 2px solid black;
+  margin: 0 auto;
+}
+.work-section {
+  float: left;
+  width: 48%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.work-header {
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
