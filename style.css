@@ -50,3 +50,26 @@ header {
   text-align: center;
   padding: 10px;
 }
+/* Education/Skills */
+.education-skills {
+  width: 90%;
+  height: 240px;
+  border-bottom: 2px solid black;
+  margin: 0 auto;
+}
+.education {
+  float: left;
+  width: 48%;
+}
+.education-header {
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+.skills {
+  float: left;
+  width: 48%;
+}
+.skills-list {
+  padding-left: 60px;
+}
