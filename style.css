@@ -6,7 +6,7 @@ body {
   background-color: grey;
 }
 .container {
-  width: 960px;
+  max-width: 960px;
   margin: 0 auto;
   background-color: white;
 }
@@ -38,6 +38,7 @@ header {
   height: 280px;
   border-bottom: 2px solid black;
   margin: 0 auto;
+  padding: 50px;
 }
 .list-of-objectives-goals {
   list-style: none;
@@ -56,6 +57,7 @@ header {
   height: 240px;
   border-bottom: 2px solid black;
   margin: 0 auto;
+  padding: 50px;
 }
 .education {
   float: left;
@@ -63,7 +65,7 @@ header {
 }
 .education-header {
   text-align: center;
-  padding-top: 40px;
+  padding-top: 50px;
   padding-bottom: 20px;
 }
 .skills {
@@ -71,7 +73,7 @@ header {
   width: 48%;
 }
 .skills-list {
-  padding-left: 60px;
+  padding-left: 50px;
 }
 /* Work/Experience */
 .work-experience {
@@ -79,6 +81,7 @@ header {
   height: 240px;
   border-bottom: 2px solid black;
   margin: 0 auto;
+  padding: 50px;
 }
 .work-section {
   float: left;
@@ -97,6 +100,7 @@ header {
   height: 240px;
   border-bottom: 2px solid black;
   margin: 0 auto;
+  padding: 50px;
 }
 .volunteer-header {
   text-align: center;
@@ -111,9 +115,10 @@ header {
 }
 /* Hobbies Section */
 .hobbies {
-  width: 90%;
+  width: 80%;
   height: 470px;
   margin: 0 auto;
+  padding: 50px;
 }
 .hobbies-header {
   text-align: center;
